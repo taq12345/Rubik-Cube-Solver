@@ -1,0 +1,13 @@
+﻿  Rubik.cpp
+c:\users\talha\source\repos\rubik\rubik\rubik.cpp(628): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\talha\source\repos\rubik\rubik\rubik.cpp(697): warning C4018: '<': signed/unsigned mismatch
+c:\users\talha\source\repos\rubik\rubik\rubik.cpp(708): warning C4018: '<': signed/unsigned mismatch
+c:\users\talha\source\repos\rubik\rubik\rubik.cpp(764): warning C4018: '<': signed/unsigned mismatch
+c:\users\talha\source\repos\rubik\rubik\rubik.cpp(895): warning C4018: '<': signed/unsigned mismatch
+c:\users\talha\source\repos\rubik\rubik\rubik.cpp(915): warning C4018: '<': signed/unsigned mismatch
+c:\users\talha\source\repos\rubik\rubik\rubik.cpp(919): warning C4018: '<': signed/unsigned mismatch
+c:\users\talha\source\repos\rubik\rubik\rubik.cpp(1004): warning C4018: '<': signed/unsigned mismatch
+c:\users\talha\source\repos\rubik\rubik\rubik.cpp(1008): warning C4018: '<': signed/unsigned mismatch
+c:\users\talha\source\repos\rubik\rubik\rubik.cpp(1151): warning C4018: '<': signed/unsigned mismatch
+c:\users\talha\source\repos\rubik\rubik\rubik.cpp(1155): warning C4018: '<': signed/unsigned mismatch
+  Rubik.vcxproj -> C:\Users\Talha\source\repos\Rubik\Debug\Rubik.exe
